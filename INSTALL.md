@@ -18,7 +18,8 @@
   $ <ambiente_virtual>/bin/pip install Django==1.8
 ```
 
-### Prepare a aplicação. Exeucte os comandos abaixo na pasta src da aplicação
+### Prepare a aplicação. 
+Exeucte os comandos abaixo na pasta src da aplicação
 ```
   $ cd <pasta_src_aplicação>
   $ <ambiente_virtual>/bin/python manage.py migrate
