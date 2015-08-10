@@ -33,6 +33,7 @@ Exeucte os comandos abaixo na pasta src da aplicação
 
 ### Inicialação do servidor
 ```
+  $ cd <pasta_src_aplicação>
   $ <ambiente_virtual>/bin/python manage.py runserver localhost:8000
 ```
 
